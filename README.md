@@ -4,7 +4,17 @@
 
 - Systems Analysis and Development undergraduate student at FATEC. Developer with experience in both Data Analysis and Supply Chain. Focused on learning new things to achieve higher standards. Committed, team-player and a result-oriented professional.
 
-##
+- I’m currently working on develop RPA solutions using UI Path and other tecnologies such as: Python, JavaScript, Java, Visual Basic .NET, SQL and HTML/CSS. Help customers understand solutions developed. Engage customer and sales team into the process and solution.
+
+- I’m currently learning about AWS and all ecosystem of back-end.
+
+<div style="display: inline_block"><br>
+     
+<a href = "mailto:peerezjoao1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/joaovitorperez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
+ 
+</div>
+
 
 <br>
 
@@ -15,28 +25,22 @@
 </div>
 
 ##
+  
+<div
+  style="display: inline_block"><br>
+  
 
-<div style="display: inline_block"><br>
-  &nbsp;
-  <img align="center" alt="Joao-python" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp&nbsp&nbsp;
-  <img align="center" alt="Joao-java" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">&nbsp&nbsp&nbsp;
-  <img align="center" alt="Joao-django" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">&nbsp&nbsp&nbsp;
-  <img align="center" alt="Joao-spring" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">&nbsp&nbsp&nbsp;
-  <img align="center" alt="Joao-sql" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">&nbsp&nbsp&nbsp&nbsp;
-  <img align="center" alt="Joao-git" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">&nbsp&nbsp&nbsp&nbsp;
-  <img align="center" alt="Joao-aws" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp&nbsp&nbsp&nbsp;
-  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-</div>
+  &nbsp;&nbsp;<img align="center" alt="joao-python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="joao-java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="joao-django" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="joao-spring" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="joao-sql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="joao-git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="joao-aws" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="joao-aws" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
+  
+  
 
-<br>
-
-##
-
-<div> 
-    &nbsp;<a href = "mailto:peerezjoao1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/joaovitorperez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
- 
-  ![Snake animation](https://github.com/peerezjoao/peerezjoao/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -44,11 +48,13 @@
 
 ##
 
-- 💼 I’m currently working on develop RPA solutions using UI Path and other tecnologies such as: Python, JavaScript, Java, Visual Basic .NET, SQL and HTML/CSS. Help customers understand solutions developed. Engage customer and sales team into the process and solution.
+<div> 
+ 
+  ![Snake animation](https://github.com/peerezjoao/peerezjoao/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <br>
 
-- 📙 I’m currently learning about AWS and all ecosystem of back-end.
 
-##
 
