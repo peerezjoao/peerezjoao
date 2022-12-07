@@ -2,7 +2,7 @@
 
 <br>
 
-- Systems Analysis and Development undergraduate student at FATEC. RPA Developer with experience in both Data Analysis and Supply Chain. Focused on learning new things to achieve higher standards. Committed, team-player and a result-oriented professional.
+- Systems Analysis and Development undergraduate student at FATEC. Developer with experience in both Data Analysis and Supply Chain. Focused on learning new things to achieve higher standards. Committed, team-player and a result-oriented professional.
 
 ##
 
@@ -17,12 +17,14 @@
 ##
 
 <div style="display: inline_block"><br>
-  &nbsp;<img align="center" alt="Joao-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
-  <img align="center" alt="Joao-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&nbsp;
-  <img align="center" alt="Joao-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">&nbsp;
-  <img align="center" alt="Joao-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">&nbsp;
-  <img align="center" alt="Joao-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  <img align="center" alt="Joao-uipath" height="30" width="40" src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo.png">&nbsp;
+  &nbsp;
+  <img align="center" alt="Joao-python" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp&nbsp&nbsp;
+  <img align="center" alt="Joao-java" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">&nbsp&nbsp&nbsp;
+  <img align="center" alt="Joao-django" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">&nbsp&nbsp&nbsp;
+  <img align="center" alt="Joao-spring" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">&nbsp&nbsp&nbsp;
+  <img align="center" alt="Joao-sql" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">&nbsp&nbsp&nbsp&nbsp;
+  <img align="center" alt="Joao-git" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">&nbsp&nbsp&nbsp&nbsp;
+  <img align="center" alt="Joao-aws" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp&nbsp&nbsp&nbsp;
   <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
 
@@ -42,11 +44,11 @@
 
 ##
 
-- 💼 I’m currently working on develop RPA solutions using UI Path and other tecnologies such as: Python, JavaScript, Visual Basic .NET, SQL and HTML/CSS. Help customers understand solutions developed. Engage customer and sales team into the process and solution.
+- 💼 I’m currently working on develop RPA solutions using UI Path and other tecnologies such as: Python, JavaScript, Java, Visual Basic .NET, SQL and HTML/CSS. Help customers understand solutions developed. Engage customer and sales team into the process and solution.
 
 <br>
 
-- 📙 I’m currently learning about AWS and all ecosystem of data.
+- 📙 I’m currently learning about AWS and all ecosystem of back-end.
 
 ##
 
