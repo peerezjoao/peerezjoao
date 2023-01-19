@@ -1,12 +1,9 @@
-### Hello! I'm João. 🤖
+### Hello! I'm João. ☁️🤖
 
 <br>
 
-- Systems Analysis and Development undergraduate student at FATEC. Developer with experience in both Data Analysis and Supply Chain. Focused on learning new things to achieve higher standards. Committed, team-player and a result-oriented professional.
-
-- I’m currently working on develop RPA solutions using UI Path and other tecnologies such as: Python, JavaScript, Java, Visual Basic .NET, SQL and HTML/CSS. Help customers understand solutions developed. Engage customer and sales team into the process and solution.
-
-- I’m currently learning about AWS and all ecosystem of back-end.
+- Systems Analysis and Development graduated at FATEC. RPA Developer experienced with architecting on AWS Cloud, Data Analysis and Supply Chain. 
+- Focused on learning new things to achieve higher standards. Committed, team-player and a result-oriented professional.
 
 <div style="display: inline_block"><br>
      
