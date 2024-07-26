@@ -1,9 +1,8 @@
-### Hello! I'm João. ☁️🤖
+### Olá! ☁️🤖
 
 <br>
 
-- Systems Analysis and Development graduated at FATEC. RPA Developer experienced with architecting on AWS Cloud, Data Analysis and Supply Chain. 
-- Focused on learning new things to achieve higher standards. Committed, team-player and a result-oriented professional.
+- Entusiasta apaixonado e motivado pelo mundo Cloud e de automação, com grande interesse em tecnologias de ponta. Atualmente atuando como Desenvolvedor RPA, possuo experiência em automação de processos, Python, Google Cloud e AWS. Minha função envolve em desenvolver aplicações personalizadas que se alinham com as necessidades de negócio, visando redução de custos operacionais, performance. Pós-graduando em Arquitetura de Soluções pela PUC, pretendo aprimorar ainda mais minha expertise e contribuir com projetos transformadores.
 
 <div style="display: inline_block"><br>
      
