@@ -1,43 +1,42 @@
-### Olá! ☁️🤖
+<h4 align="center">Olá! <br>☁️ 🤖</h4>
 
-<br>
+###
 
-- Entusiasta apaixonado e motivado pelo mundo Cloud e de automação, com grande interesse em tecnologias de ponta. Atualmente atuando como Desenvolvedor RPA, possuo experiência em automação de processos, Python, Google Cloud e AWS. Minha função envolve em desenvolver aplicações personalizadas que se alinham com as necessidades de negócio, visando redução de custos operacionais, performance. Pós-graduando em Arquitetura de Soluções pela PUC, pretendo aprimorar ainda mais minha expertise e contribuir com projetos transformadores.
+<p align="center">Entusiasta apaixonado e motivado pelo mundo Cloud e de automação, com grande interesse em tecnologias de ponta. Atualmente atuando como Desenvolvedor RPA, possuo experiência em automação de processos, Python, Google Cloud e AWS. Minha função envolve em desenvolver aplicações personalizadas que se alinham com as necessidades de negócio, visando redução de custos operacionais, performance. Pós-graduando em Arquitetura de Soluções pela PUC, pretendo aprimorar ainda mais minha expertise e contribuir com projetos transformadores.</p>
 
-<div style="display: inline_block"><br>
-     
-<a href = "mailto:peerezjoao1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/joaovitorperez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
- 
-</div>
-
-
-<br>
+###
 
 <div align="center">
-  <a href="https://github.com/peerezjoao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peerezjoao&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peerezjoao&layout=compact&langs_count=7&theme=blueberry"/>
+  <a href="https://www.linkedin.com/in/joaovitorperez/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
-##
-  
-<div
-  style="display: inline_block"><br>
-  
-     
-          
+###
 
-  &nbsp;&nbsp;<img align="center" alt="joao-python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="joao-django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="joao-sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="joao-git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="joao-aws" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="joao-aws" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  <img align="center" alt="joao-gcp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  
-  
-
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peerezjoao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peerezjoao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+</div>
+
+###
